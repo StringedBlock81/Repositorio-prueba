@@ -1,0 +1,4 @@
+Hola Mundo!
+Cómo están?
+
+Este archivo de texto es una de prueba donde estamos viendo como funciona git.
