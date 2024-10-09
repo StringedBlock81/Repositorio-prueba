@@ -5,3 +5,12 @@ La historia del juego sigue a un agente encubierto llamado Kyle Crane que es env
 Cuenta con una ciudad infestada de enemigos, mundo abierto con un dinámico ciclo de día-noche, en el que los zombis son lentos y torpes durante el día, pero se vuelven extremadamente agresivos por la noche.
 El juego se centra en el combate basado en armas y parkour, lo que permite a los jugadores elegir lucha o huida cuando se les presentan peligros.
 El juego también cuenta con un modo multijugador asimétrico (originalmente establecido como un bono de reserva) y un modo multijugador cooperativo para cuatro jugadores.
+
+Historia
+
+El desarrollo del juego comenzó a principios de 2012, después de que el equipo completara el desarrollo de Dead Island.
+El sistema parkour del juego enfatiza el movimiento natural. Para implementar eso, Techland tuvo que abandonar la mayoría de los elementos de la historia y construirlos de nuevo desde cero.
+Para crear una historia que se adaptara al gusto del público estadounidense, el equipo de escritura colaboró con Dan Jolley. La historia se inspiró tanto en Heart of Darkness como en The Plague.
+Anunciado en mayo de 2013, fue lanzado en enero de 2015 para Linux, PlayStation 4, Windows y Xbox One.
+Se planeó que el juego se lanzara en PlayStation 3 y Xbox 360, pero estas versiones se cancelaron debido a limitaciones de hardware.
+
