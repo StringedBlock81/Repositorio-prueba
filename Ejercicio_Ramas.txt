@@ -1,0 +1,4 @@
+Este archivo de texto es para poner aprueba lo aprendido en clase.
+
+En específico los comandos de git para crear ramas de trabajo donde se puedan realizar cambios o agregar código sin 
+afectar la rama de trabajo principal/main.
