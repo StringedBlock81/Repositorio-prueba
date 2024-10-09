@@ -14,3 +14,10 @@ Para crear una historia que se adaptara al gusto del público estadounidense, el
 Anunciado en mayo de 2013, fue lanzado en enero de 2015 para Linux, PlayStation 4, Windows y Xbox One.
 Se planeó que el juego se lanzara en PlayStation 3 y Xbox 360, pero estas versiones se cancelaron debido a limitaciones de hardware.
 
+Modo de Juego
+Dying Light es un juego con un amplio y peligroso mundo abierto ubicado en la ciudad ficticia de Harran. Durante el día los jugadores podrán explorar un amplio ambiente urbano y expansivo contaminado por un insidioso virus, también podrán colocar las trampas y a su vez podrán buscar suministros en el día tanto como en la noche, salvar a los supervivientes encontrados casualmente y también buscar o crear armas.
+Los infectados son lentos, excepto algunos infectados específicos, dando la posibilidad al jugador de huir, pero su peligrosidad crece con los números.
+Por suerte, el jugador podrá quedarse en los techos de los edificios para ponerse fuera de peligro, pero también existen infectados llamados víricos, son los segundos más veloces después de coléricos, que salen a la noche.
+Los víricos aparecen casi siempre cuando escuchan un ruido fuerte, como un disparo, una explosión o un golpe fuerte, son muy rápidos y pueden escalar edificios perfectamente, haciendo que hasta uno de ellos sea una molestia para el jugador.
+Los jugadores deberán preparar las defensas contra la creciente población infectada en este nuevo mundo apocalíptico.
+
